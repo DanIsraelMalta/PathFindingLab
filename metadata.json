@@ -1,5 +1,5 @@
 {
-  "name": "Pathfinding Algorithm Visualizer",
+  "name": "Path Finding Laboratory",
   "description": "Interactive 2D pathfinding visualizer comparing Dijkstra, BFS, DFS, A*, D* Lite, and Theta* with custom heuristics and maze generation.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
