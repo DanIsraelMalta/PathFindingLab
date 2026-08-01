@@ -39,4 +39,4 @@
 
 ***
 
-DevOps and deployment were done using Google Gemini and it felt great, from now on, devops is fully automatic.
+DevOps and deployment were done using Google Gemini and it felt great.
