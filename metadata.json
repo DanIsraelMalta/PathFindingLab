@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinding Algorithm Visualizer",
+  "description": "Interactive 2D pathfinding visualizer comparing Dijkstra, BFS, DFS, A*, D* Lite, and Theta* with custom heuristics and maze generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
